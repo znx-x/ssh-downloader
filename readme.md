@@ -1,8 +1,8 @@
-#SSH Downloader
+# SSH Downloader
 A simple Windows CMD to download single files from remote servers using SSH and
 SCP. Feel free to add, remove, suggest, and request.
 
-##Usage
+## Usage
 You can clone the directory using `git clone`:
 
 ```shell
