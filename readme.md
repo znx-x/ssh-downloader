@@ -6,7 +6,7 @@ SCP. Feel free to add, remove, suggest, and request.
 You can clone the directory using `git clone`:
 
 ```shell
-git clone https://github.com/paulobaronceli/ssh-downloader.git
+git clone https://github.com/znx-x/ssh-downloader.git
 ```
 
 Go to the directory using `cd`:
